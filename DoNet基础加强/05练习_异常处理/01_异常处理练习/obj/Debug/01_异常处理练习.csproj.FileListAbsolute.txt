@@ -1,0 +1,5 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\01_异常处理练习\bin\Debug\01_异常处理练习.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\01_异常处理练习\bin\Debug\01_异常处理练习.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\01_异常处理练习\bin\Debug\01_异常处理练习.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\01_异常处理练习\obj\Debug\01_异常处理练习.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\01_异常处理练习\obj\Debug\01_异常处理练习.pdb

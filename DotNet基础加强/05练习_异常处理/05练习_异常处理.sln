@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_主动抛出异常", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_catch块中向上抛出异常", "05_catch块中向上抛出异常\05_catch块中向上抛出异常.csproj", "{1747A118-AB50-4F19-8F0A-BDF5C9D375BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_判断两个对象是否是同一个对象", "06_判断两个对象是否是同一个对象\06_判断两个对象是否是同一个对象.csproj", "{E0FA9398-51A4-4103-BA1A-41446B4190DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1747A118-AB50-4F19-8F0A-BDF5C9D375BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1747A118-AB50-4F19-8F0A-BDF5C9D375BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1747A118-AB50-4F19-8F0A-BDF5C9D375BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0FA9398-51A4-4103-BA1A-41446B4190DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FA9398-51A4-4103-BA1A-41446B4190DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FA9398-51A4-4103-BA1A-41446B4190DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FA9398-51A4-4103-BA1A-41446B4190DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

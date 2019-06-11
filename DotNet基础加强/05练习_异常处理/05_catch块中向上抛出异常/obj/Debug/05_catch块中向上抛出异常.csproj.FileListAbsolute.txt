@@ -3,3 +3,4 @@ E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\05_catch块
 E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\05_catch块中向上抛出异常\bin\Debug\05_catch块中向上抛出异常.pdb
 E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\05_catch块中向上抛出异常\obj\Debug\05_catch块中向上抛出异常.exe
 E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\05_catch块中向上抛出异常\obj\Debug\05_catch块中向上抛出异常.pdb
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\05_catch块中向上抛出异常\obj\Debug\05_catch块中向上抛出异常.csprojResolveAssemblyReference.cache

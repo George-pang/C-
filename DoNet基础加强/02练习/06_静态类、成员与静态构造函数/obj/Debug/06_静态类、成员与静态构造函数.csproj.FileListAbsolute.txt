@@ -1,0 +1,5 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\06_静态类、成员与静态构造函数\bin\Debug\06_静态类、成员与静态构造函数.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\06_静态类、成员与静态构造函数\bin\Debug\06_静态类、成员与静态构造函数.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\06_静态类、成员与静态构造函数\bin\Debug\06_静态类、成员与静态构造函数.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\06_静态类、成员与静态构造函数\obj\Debug\06_静态类、成员与静态构造函数.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\06_静态类、成员与静态构造函数\obj\Debug\06_静态类、成员与静态构造函数.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_接口", "01_接口\01_接口.csproj", "{FB6CC3DF-EA60-4749-B3F0-BEB501C71679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_接口练习", "02_接口练习\02_接口练习.csproj", "{38ABA5B8-F226-45BE-95DD-9B875D5AEB21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_显式实现接口_解决多接口方法同名问题", "03_显式实现接口_解决多接口方法同名问题\03_显式实现接口_解决多接口方法同名问题.csproj", "{0C761B67-A79C-4056-993E-ACA09B1382A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_接口间的继承", "04_接口间的继承\04_接口间的继承.csproj", "{6DBE38FB-6630-4910-9941-5E22D03E8D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6CC3DF-EA60-4749-B3F0-BEB501C71679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6CC3DF-EA60-4749-B3F0-BEB501C71679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6CC3DF-EA60-4749-B3F0-BEB501C71679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6CC3DF-EA60-4749-B3F0-BEB501C71679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38ABA5B8-F226-45BE-95DD-9B875D5AEB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38ABA5B8-F226-45BE-95DD-9B875D5AEB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38ABA5B8-F226-45BE-95DD-9B875D5AEB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38ABA5B8-F226-45BE-95DD-9B875D5AEB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C761B67-A79C-4056-993E-ACA09B1382A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C761B67-A79C-4056-993E-ACA09B1382A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C761B67-A79C-4056-993E-ACA09B1382A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C761B67-A79C-4056-993E-ACA09B1382A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DBE38FB-6630-4910-9941-5E22D03E8D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBE38FB-6630-4910-9941-5E22D03E8D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DBE38FB-6630-4910-9941-5E22D03E8D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DBE38FB-6630-4910-9941-5E22D03E8D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

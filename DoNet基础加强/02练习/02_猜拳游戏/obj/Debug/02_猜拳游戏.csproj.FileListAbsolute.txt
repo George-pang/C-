@@ -1,0 +1,9 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\bin\Debug\02_猜拳游戏.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\bin\Debug\02_猜拳游戏.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\bin\Debug\02_猜拳游戏.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\02_猜拳游戏.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\_02_猜拳游戏.Form1.resources
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\_02_猜拳游戏.Properties.Resources.resources
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\02_猜拳游戏.csproj.GenerateResource.Cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\02_猜拳游戏.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\02_猜拳游戏\obj\Debug\02_猜拳游戏.pdb

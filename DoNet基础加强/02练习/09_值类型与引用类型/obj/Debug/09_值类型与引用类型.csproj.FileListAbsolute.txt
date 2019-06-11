@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\bin\Debug\09_值类型与引用类型.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\bin\Debug\09_值类型与引用类型.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\bin\Debug\09_值类型与引用类型.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\obj\Debug\09_值类型与引用类型.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\obj\Debug\09_值类型与引用类型.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\09_值类型与引用类型\obj\Debug\09_值类型与引用类型.pdb

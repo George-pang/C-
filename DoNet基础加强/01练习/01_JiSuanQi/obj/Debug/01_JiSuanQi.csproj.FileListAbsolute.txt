@@ -1,0 +1,9 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\bin\Debug\01_JiSuanQi.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\bin\Debug\01_JiSuanQi.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\bin\Debug\01_JiSuanQi.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\01_JiSuanQi.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\_01_JiSuanQi.Form1.resources
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\_01_JiSuanQi.Properties.Resources.resources
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\01_JiSuanQi.csproj.GenerateResource.Cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\01_JiSuanQi.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\01练习\01_JiSuanQi\obj\Debug\01_JiSuanQi.pdb

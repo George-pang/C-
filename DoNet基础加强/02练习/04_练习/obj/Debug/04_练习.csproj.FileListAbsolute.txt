@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\bin\Debug\04_练习.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\bin\Debug\04_练习.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\bin\Debug\04_练习.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\obj\Debug\04_练习.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\obj\Debug\04_练习.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\02练习\04_练习\obj\Debug\04_练习.pdb

@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\bin\Debug\02_捕获多种异常.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\bin\Debug\02_捕获多种异常.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\bin\Debug\02_捕获多种异常.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\obj\Debug\02_捕获多种异常.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\obj\Debug\02_捕获多种异常.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\05练习_异常处理\02_捕获多种异常\obj\Debug\02_捕获多种异常.pdb

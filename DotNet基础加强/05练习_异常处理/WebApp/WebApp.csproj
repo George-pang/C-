@@ -154,6 +154,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AKV7ManageDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AKV7ManageDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -189,6 +194,17 @@
     <Content Include="Areas\M_Event\Views\web.config" />
     <Content Include="Reports\DataSet1.xsc">
       <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Content>
+    <Content Include="AKV7ManageDataSet.xsc">
+      <DependentUpon>AKV7ManageDataSet.xsd</DependentUpon>
+    </Content>
+    <None Include="AKV7ManageDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AKV7ManageDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="AKV7ManageDataSet.xss">
+      <DependentUpon>AKV7ManageDataSet.xsd</DependentUpon>
     </Content>
     <None Include="Reports\DataSet1.xsd">
       <SubType>Designer</SubType>

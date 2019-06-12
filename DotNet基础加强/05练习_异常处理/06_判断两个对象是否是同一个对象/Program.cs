@@ -27,7 +27,11 @@ namespace _06_判断两个对象是否是同一个对象
             //返回true或false
             Console.WriteLine(Object.ReferenceEquals(p1, p2));
             Console.WriteLine(Object.ReferenceEquals(p1, p3));
+            int a = 3, b = 3;
+            Console.WriteLine(Object.ReferenceEquals(a,b));
+            Console.WriteLine("Object.ReferenceEquals()对于两个值类型，永远返回false");
             Console.WriteLine();
+
 
             Console.WriteLine("使用==来判断");
             Console.WriteLine(p1==p2);

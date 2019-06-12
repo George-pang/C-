@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\bin\Debug\06.1_子类中重载Equals方法.exe.config
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\bin\Debug\06.1_子类中重载Equals方法.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\bin\Debug\06.1_子类中重载Equals方法.pdb
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\obj\Debug\06.1_子类中重载Equals方法.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\obj\Debug\06.1_子类中重载Equals方法.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\05练习_异常处理\06.1_子类中重载Equals方法\obj\Debug\06.1_子类中重载Equals方法.pdb

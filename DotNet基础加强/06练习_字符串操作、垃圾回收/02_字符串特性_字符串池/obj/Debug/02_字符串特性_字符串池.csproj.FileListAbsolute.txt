@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\bin\Debug\02_字符串特性_字符串池.exe.config
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\bin\Debug\02_字符串特性_字符串池.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\bin\Debug\02_字符串特性_字符串池.pdb
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\obj\Debug\02_字符串特性_字符串池.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\obj\Debug\02_字符串特性_字符串池.exe
+E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\02_字符串特性_字符串池\obj\Debug\02_字符串特性_字符串池.pdb

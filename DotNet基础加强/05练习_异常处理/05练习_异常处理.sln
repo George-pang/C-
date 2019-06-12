@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ref与out", "08_ref与ou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_ref与out参数练习", "09_ref与out参数练习\09_ref与out参数练习.csproj", "{71EC937E-E8AE-42D3-9E70-2DD9913ACAE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.1_子类中重载Equals方法", "06.1_子类中重载Equals方法\06.1_子类中重载Equals方法.csproj", "{82A4B9F7-7857-46A5-87B1-FF5F267285E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{71EC937E-E8AE-42D3-9E70-2DD9913ACAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71EC937E-E8AE-42D3-9E70-2DD9913ACAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71EC937E-E8AE-42D3-9E70-2DD9913ACAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A4B9F7-7857-46A5-87B1-FF5F267285E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A4B9F7-7857-46A5-87B1-FF5F267285E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A4B9F7-7857-46A5-87B1-FF5F267285E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A4B9F7-7857-46A5-87B1-FF5F267285E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

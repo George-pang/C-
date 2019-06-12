@@ -26,7 +26,7 @@ namespace _09_ref与out参数练习
                 Console.WriteLine("请输入密码：");
                 string pwd = Console.ReadLine();
                 string msg;
-                bool result = LoginJudge(uid, pwd, out msg);
+                bool result = LoginJudge(uid, pwd, out msg); //除了显式的return返回值外，一个out参数也可以看作是一个返回值
                 if (result)
                 {
                     Console.WriteLine("登陆成功！提示：{0}", msg);
@@ -41,6 +41,7 @@ namespace _09_ref与out参数练习
 
         }
 
+        //交换int型变量
         static void ChangeVar(ref int a, ref int b)
         {
             a = a + b;

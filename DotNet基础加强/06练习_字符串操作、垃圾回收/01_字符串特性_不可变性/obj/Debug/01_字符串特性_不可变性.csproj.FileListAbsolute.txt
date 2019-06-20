@@ -3,3 +3,9 @@ E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾�
 E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\bin\Debug\01_字符串特性_不可变性.pdb
 E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\obj\Debug\01_字符串特性_不可变性.exe
 E:\PLQ_Study\C#学习练手\DoNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\obj\Debug\01_字符串特性_不可变性.pdb
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\bin\Debug\01_字符串特性_不可变性.exe.config
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\bin\Debug\01_字符串特性_不可变性.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\bin\Debug\01_字符串特性_不可变性.pdb
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\obj\Debug\01_字符串特性_不可变性.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\obj\Debug\01_字符串特性_不可变性.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\01_字符串特性_不可变性\obj\Debug\01_字符串特性_不可变性.pdb

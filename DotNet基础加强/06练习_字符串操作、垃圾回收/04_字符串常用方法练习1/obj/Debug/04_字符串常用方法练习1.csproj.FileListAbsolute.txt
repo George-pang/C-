@@ -1,0 +1,6 @@
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\bin\Debug\04_字符串常用方法练习1.exe.config
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\bin\Debug\04_字符串常用方法练习1.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\bin\Debug\04_字符串常用方法练习1.pdb
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\obj\Debug\04_字符串常用方法练习1.csprojResolveAssemblyReference.cache
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\obj\Debug\04_字符串常用方法练习1.exe
+E:\PLQ_Study\C#学习练手\DotNet基础加强\06练习_字符串操作、垃圾回收\04_字符串常用方法练习1\obj\Debug\04_字符串常用方法练习1.pdb

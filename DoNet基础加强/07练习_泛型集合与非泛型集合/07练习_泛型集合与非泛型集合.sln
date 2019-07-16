@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ArrayList集合练习", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_泛型集合", "06_泛型集合\06_泛型集合.csproj", "{B5CEABC7-1561-4C1B-9373-022B30F458E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_泛型集合练习", "07_泛型集合练习\07_泛型集合练习.csproj", "{1F23382D-C5D8-4EF2-8AD2-B4AEE7E54883}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B5CEABC7-1561-4C1B-9373-022B30F458E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5CEABC7-1561-4C1B-9373-022B30F458E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5CEABC7-1561-4C1B-9373-022B30F458E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F23382D-C5D8-4EF2-8AD2-B4AEE7E54883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F23382D-C5D8-4EF2-8AD2-B4AEE7E54883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F23382D-C5D8-4EF2-8AD2-B4AEE7E54883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F23382D-C5D8-4EF2-8AD2-B4AEE7E54883}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

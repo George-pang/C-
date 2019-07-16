@@ -16,12 +16,15 @@ namespace _06_泛型集合
             list2.Add(222);
             Console.WriteLine(list2.Capacity);
             Console.WriteLine(list2.Count);
+            Console.WriteLine(list2[1]);
 
             Console.WriteLine();
+            Console.WriteLine("Dictionary泛型集合，声明键值类型");
             Dictionary<string, int> dict = new Dictionary<string, int>();//声明键类型、值类型
             dict.Add("cr", 99);
             dict.Add("ltj", 88);
             dict.Add("lyj", 66);
+            Console.WriteLine("Dictionary泛型集合的遍历：");
             Console.WriteLine("遍历键");
             foreach (string item in dict.Keys)
             {

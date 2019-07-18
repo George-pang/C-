@@ -14,7 +14,7 @@ namespace _07_泛型集合练习
             string str = "2 7 8 3 22 9 5 11";
             List<string> listOdd = new List<string>();
             List<string> listEven = new List<string>();
-            string[] numbers = str.Split(' '); 
+            string[] numbers = str.Split(' ');
             for (int i = 0; i < numbers.Length; i++)
             {
                 if (int.Parse(numbers[i]) % 2 == 0)
@@ -36,7 +36,7 @@ namespace _07_泛型集合练习
             #endregion
 
             #region 将int数组中的奇数放到新的int数组中去
-            int[] intArr=new int[]{1,2,3,4,5,6,7,8,9,10};
+            int[] intArr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             List<int> list = new List<int>(); //C#里数组是不可以改变长度的，因此不能使用for循环动态添加元素，这里采用List<T>泛型集合
             for (int i = 0; i < intArr.Length; i++)
             {
@@ -45,7 +45,7 @@ namespace _07_泛型集合练习
                     list.Add(intArr[i]);
                 }
             }
-            int[] newArr = list.ToArray(); 
+            int[] newArr = list.ToArray();
             for (int i = 0; i < newArr.Length; i++)
             {
                 Console.WriteLine(newArr[i]);
@@ -57,7 +57,7 @@ namespace _07_泛型集合练习
 
             Console.WriteLine();
             Console.WriteLine("从一个List<int>找出最大数：");
-            List<int> list2 = new List<int>() { 1,3,5,33,9,66,99,54};
+            List<int> list2 = new List<int>() { 1, 3, 5, 33, 9, 66, 99, 54 };
             //Console.WriteLine(list2.Max());
             Console.WriteLine(getMax(list2));
             Console.WriteLine();
@@ -103,9 +103,9 @@ namespace _07_泛型集合练习
                     }
                 }
             }
-            foreach (KeyValuePair<char,int> item in dict2)
+            foreach (KeyValuePair<char, int> item in dict2)
             {
-                Console.WriteLine("字母{0}出现的次数为：{1}",item.Key,item.Value);
+                Console.WriteLine("字母{0}出现的次数为：{1}", item.Key, item.Value);
             }
             Console.WriteLine();
             Console.ReadKey();
@@ -130,7 +130,7 @@ namespace _07_泛型集合练习
             string[] numArr = numStr.Split(' ');
             for (int i = 0; i < numArr.Length; i++)
             {
-                dict3.Add(numArr[i][0],numArr[i][1]);
+                dict3.Add(numArr[i][0], numArr[i][1]);
             }
 
             StringBuilder sbStr = new StringBuilder();
@@ -155,7 +155,7 @@ namespace _07_泛型集合练习
                         sbStr.Append("1");
                     }
                 }
-                else if(dict3.ContainsKey(strDate[i])) //中文：一到九
+                else if (dict3.ContainsKey(strDate[i])) //中文：一到九
                 {
                     sbStr.Append(dict3[strDate[i]]);
                 }
